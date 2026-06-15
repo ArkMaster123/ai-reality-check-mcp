@@ -1,0 +1,38 @@
+{
+  "name": "ai-reality-check-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that detects AI-induced delusions, grandiose claims, and unhealthy attachment patterns in coding agents. Provides real-time risk scoring and graduated interventions.",
+  "type": "module",
+  "main": "src/ai-reality-check.ts",
+  "scripts": {
+    "start": "bun run src/server.ts",
+    "dev": "bun --watch src/server.ts",
+    "test": "bun test",
+    "lint": "biome check src/"
+  },
+  "keywords": [
+    "mcp",
+    "ai-safety",
+    "mental-health",
+    "reality-check",
+    "chatgpt-psychosis",
+    "claude",
+    "cursor",
+    "stackone"
+  ],
+  "author": "Noah Santoni (ArkMaster123)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArkMaster123/ai-reality-check-mcp"
+  },
+  "dependencies": {
+    "@stackone/mcp-connectors": "^0.0.25",
+    "@stackone/mcp-config-types": "^0.0.13",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}
