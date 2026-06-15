@@ -6,6 +6,10 @@ Built at the StackOne x Cloudflare Disco Hack hackathon (Aug 2025).
 
 **Original PR**: [StackOneHQ/mcp-connectors#91](https://github.com/StackOneHQ/mcp-connectors/pull/91) — merged from `ArkMaster123/feature/ai-reality-check-connector`, reviewed by Copilot AI and cubic-dev-ai.
 
+**Pitch Deck**: [AI Reality Check MCP — The Guardian Angel for the AI Age](https://ai-reality-check-mcp-the-q0y322y.gamma.site/)
+
+![PR Screenshot](pr-screenshot.jpg)
+
 ## Tools
 
 | Tool | Description |
