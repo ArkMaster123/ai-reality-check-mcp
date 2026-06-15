@@ -4,6 +4,8 @@ Detects AI-induced delusions, grandiose claims, and unhealthy attachment pattern
 
 Built at the StackOne x Cloudflare Disco Hack hackathon (Aug 2025).
 
+**Original PR**: [StackOneHQ/mcp-connectors#91](https://github.com/StackOneHQ/mcp-connectors/pull/91) — merged from `ArkMaster123/feature/ai-reality-check-connector`, reviewed by Copilot AI and cubic-dev-ai.
+
 ## Tools
 
 | Tool | Description |
